@@ -1,0 +1,8 @@
+{
+  "name": "CariocaClassico",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "78fc5202"
+}
